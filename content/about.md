@@ -4,9 +4,11 @@ date: 2019-03-26T08:47:11+01:00
 draft: false
 ---
 
-First and foremost: I’m introducing software ideas to the real world. And are keeping them running …
+First and foremost: **I’m introducing software ideas to the real world. And are keeping them running … **
 
+```
 #OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #Go #Python #BPM #Kubernetes #OpenShift #CICD
+```
 
 Ever since I was a little kid, computers have been my passion. I still remember the first try to upgrade my PC, which entertained me with a firework-like show after turning on the power switch. Fortunately, a friend and I got away with just a broken power fuse. 
 
@@ -16,9 +18,9 @@ Previously, I developed high-available health-care systems for Swiss hospitals a
 
 Still my emotional biggest success in the IT world was, when I got nominated for one of the top three projects by CH Open Source Awards. Can't forget the time I arrived in Zurich, regarding I'm from a much smaller city, the impression was overwhelming ... The presentation in front of the audience back then was the start point of my today's strength and motivation. Since then open-source has secured a special place in my heart.
 
-Even when I leave the office. I tend to continue writing code at the flat. This is what keeps me up at night, a never ending thirst to create beautiful, powerful things and share them with the world. Next to coding I’m spending my leisure time with my wife, my dog Simba and a lot of travelling.  While I’m trying not to miss any chances of doing something creative (www.stans.pictures).
+Even when I leave the office. I tend to continue writing code at the flat. This is what keeps me up at night, a never ending thirst to create beautiful, powerful things and share them with the world. Next to coding I’m spending my leisure time with my wife, my dog Simba and a lot of travelling.  While I’m trying not to miss any chances of doing something creative [stans.pictures](www.stans.pictures).
 
 I believe that software can improve the lives of people around the world.
 
-Skills/Interests: Java, Kotlin, Go, Python
+Skills/Interests: Leadership, Java, Kotlin, Go, Python
 Academic: Algorithms, Distributed Systems
