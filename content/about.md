@@ -6,10 +6,6 @@ draft: false
 
 First and foremost: **I’m introducing software ideas to the real world. And are keeping them running …**
 
-```
-#OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #Go #Python #BPM #Kubernetes #OpenShift #CICD
-```
-
 Ever since I was a little kid, computers have been my passion. I still remember the first try to upgrade my PC, which entertained me with a firework-like show after turning on the power switch. Fortunately, a friend and I got away with just a broken power fuse. 
 
 Currently, I’m leading my international and agile software engineering teams of six people at [UMB](www.umb.ch) with the aim to create time for us and our customers. My main responsibility is to develop a cloud native SaaS platform for process automation in a multi-tenant microservice architecture with Java/Kotlin, Spring Boot and Angular.
