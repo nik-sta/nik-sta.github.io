@@ -18,5 +18,5 @@ Even when I leave the office. I tend to continue writing code at the flat. This 
 
 **I believe that software can improve the lives of people around the world.**
 
-Skills/Interests: Leadership, Java, Kotlin, Go, Python
-Academic: Algorithms, Distributed Systems
+* Skills/Interests: Leadership, Java, Kotlin, Go, Python
+* Academic: Algorithms, Distributed Systems
