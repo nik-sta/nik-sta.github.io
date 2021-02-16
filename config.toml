@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "#OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #Go #Python #BPM #Kubernetes #OpenShift"
+  footercontent = "#OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #SpringBoot #BPM #Kubernetes #OpenShift"
   hideFooter = false
   hideCredits = true
   hideCopyright = false
