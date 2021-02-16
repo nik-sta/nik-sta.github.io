@@ -6,7 +6,7 @@ draft: false
 
 First and foremost: **I’m introducing software ideas to the real world. And are keeping them running …**
 
-![Image Nikola Stankovic (botscripter)](images/nikola.jpg "Nikola Stankovic (botscripter)")
+![Image Nikola Stankovic (botscripter)](/images/nikola.jpg "Nikola Stankovic (botscripter)")
 
 Ever since I was a little kid, computers have been my passion. I still remember the first try to upgrade my PC, which entertained me with a firework-like show after turning on the power switch. Fortunately, a friend and I got away with just a broken power fuse. 
 
