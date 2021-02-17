@@ -14,13 +14,13 @@ pygmentscodefencesguesssyntax = true
   author = "Nikola Stanković"
   info = "Software Engineer (back-end)"
   description = "botscripter's blog"
-  keywords = "opensource,agile,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture"
+  keywords = "opensource,agile,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture,sql,nosql"
   avatarurl = "images/avatar.jpg"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "#OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #SpringBoot #Python #Go #BPM #Kubernetes"
+  footercontent = "#OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #SpringBoot #Python #Go #BPM #Kubernetes #SQL"
   hideFooter = false
   hideCredits = true
   hideCopyright = false
