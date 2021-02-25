@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Nikola Stanković"
-  info = "Software Engineer (back-end)"
+  info = "Software Development Lead"
   description = "botscripter's blog"
   keywords = "opensource,agile,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture,sql,nosql"
   avatarurl = "images/avatar.jpg"
