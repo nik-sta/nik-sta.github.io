@@ -2,9 +2,9 @@
 title: Production-ready microservice with Spring Boot written in Java
 description: description
 authors: ["botscripter"]
-tags: ["devops"]
+tags: ["java", "spring boot", "kubernetes", "microservice", "devops"]
 categories: ["dev"]
-series: ["Theme Demo"]
+series: ["Production-ready microservices"]
 date: 2021-02-26T00:30:00+01:00
 keywords: java, spring boot, kubernetes, microservice
 draft: false
