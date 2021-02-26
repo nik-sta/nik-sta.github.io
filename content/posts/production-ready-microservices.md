@@ -27,4 +27,4 @@ Feel free to jump directly into my quick-starter-template on GitHub to start rig
 * Enable JVM Runtime Metrics
 * vulnerability detection
 * actuator
-* performance visualizing tweeking
+* performance visualization tweaks
