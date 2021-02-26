@@ -5,7 +5,8 @@ tags: ["java", "spring boot", "kubernetes", "microservice", "devsecops"]
 series: ["Production-ready microservices"]
 date: 2021-02-26T00:30:00+01:00
 keywords: java, spring boot, kubernetes, microservice, devsecops
-draft: true
+featuredImage: image-1.jpeg
+draft: false
 ---
 
 **In this blog article, I want to explain how to get easily started with a microservice written in Java with Spring Boot. Aiming to show what is needed to have this service ready for production on a Kubernetes environment. Covering the DevSecOps best practices.**
