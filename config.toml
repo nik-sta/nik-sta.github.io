@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-  author = "Nikola Stanković"
+  author = "Nikola Stanković (botscripter)"
   info = "Software Development Lead"
   description = "botscripter's blog"
   keywords = "opensource,agile,scrum,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture,sql,nosql"
