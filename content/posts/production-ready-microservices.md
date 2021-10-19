@@ -9,7 +9,7 @@ featuredImage: image-1.jpeg
 draft: true
 ---
 
-Scope: Java, spring boot, micro-service
+Scope: Java, spring boot, micro-service, kubernetes
 
 **In this blog article, I want to explain how to get easily started with a microservice written in Java with Spring Boot. Aiming to show what is needed to have this service ready for production on a Kubernetes environment. Covering the DevSecOps best practices.**
 
