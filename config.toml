@@ -12,15 +12,15 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Nikola Stanković"
-  info = "Software Development Lead"
+  info = "Software Engineer"
   description = "botscripter's blog"
-  keywords = "opensource,agile,scrum,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture,sql,nosql,kubernetes,openshift"
+  keywords = "productionreadiness,opensource,agile,scrum,kanban,java,go,kotlin,python,cloud,cloudnative,devops,devsecops,code,blog,developer,programmer,personal,software,architecture,sql,nosql,kubernetes,openshift"
   avatarurl = "images/avatar.jpg"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "#OpenSource #Agile #Scrum #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #SpringBoot #Python #Go #BPM #Kubernetes #OpenShift #SQL #NoSQL"
+  footercontent = "#ProductionReadiness #SpringBoot #OpenSource #Agile #CloudNative #DevSecOps #SoftwareArchitecture #Java #Kotlin #Python #Go #BPM #Kubernetes #SQL #NoSQL"
   hideFooter = false
   hideCredits = true
   hideCopyright = false
@@ -57,7 +57,7 @@ pygmentscodefencesguesssyntax = true
   name = "Medium"
   icon = "fa fa-medium fa-2x"
   weight = 4
-  url = "https://medium.com/@nikola_stankovic"
+  url = "https://medium.com/@botscripter"
 
 # Menu links
 [[menu.main]]
