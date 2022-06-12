@@ -1,4 +1,4 @@
-baseurl = "http://www.botscripter.io"
+baseurl = "https://www.botscripter.io"
 title = "botscripter"
 theme = "hugo-coder"
 languagecode = "en"
