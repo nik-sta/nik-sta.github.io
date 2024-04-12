@@ -1,5 +1,5 @@
-baseurl = "https://www.botscripter.io"
-title = "botscripter"
+baseurl = "https://niksta.dev"
+title = "Nikola Stanković"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/botscripter/"
+  url = "https://github.com/nik-sta/"
 [[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
@@ -52,12 +52,12 @@ pygmentscodefencesguesssyntax = true
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/botscripter/"
+  url = "https://twitter.com/niksta/"
 [[params.social]]
   name = "Medium"
   icon = "fa fa-medium fa-2x"
   weight = 4
-  url = "https://medium.com/@botscripter"
+  url = "https://medium.com/@niksta"
 
 # Menu links
 [[menu.main]]
